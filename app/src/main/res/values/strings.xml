@@ -1,0 +1,30 @@
+<resources>
+    <!--Nombre de la aplicación-->
+    <string name="app_name">Crazy Layouts</string>
+
+    <!--Parte arriba izquierda-->
+    <string name="producto">Producto</string>
+    <string name="jabon">Jabón de manos x 1</string>
+    <string name="champu">Shampoo Monster x 1</string>
+    <string name="pastas">Pastas Duria x 2</string>
+    <string name="detergente">Detergente Limpiadin x 1</string>
+
+    <!--Parte arriba derecha-->
+    <string name="subtotal">Subtotal</string>
+    <string name="primeroArI">$2</string>
+    <string name="segundoArI">$10</string>
+    <string name="terceroArI">$18</string>
+    <string name="cuartoArI">$13,4</string>
+
+    <!--Parte abajo izquierda-->
+    <string name="costo">Costo envío</string>
+    <string name="cupon">Cupón</string>
+    <string name="total">Total</string>
+
+    <!--Parte abajo derecha-->
+    <string name="primeroAbD">$43</string>
+    <string name="segundoAbD">$10</string>
+    <string name="terceroAbD">-$5</string>
+    <string name="cuartoAbD">$48,4</string>
+
+</resources>
